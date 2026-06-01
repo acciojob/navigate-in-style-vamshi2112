@@ -9,5 +9,8 @@
 .container li{
 	display:inline;
 	margin-right:1rem;
+}
+
+ul{
 	list-style:none;
 }
